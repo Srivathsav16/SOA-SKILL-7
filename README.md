@@ -133,3 +133,5 @@ Expected: `401 Unauthorized` for missing/invalid authentication.
 ## Important
 
 This demonstration stores books in memory so the project runs immediately without PostgreSQL. The JWT secret is intentionally a demo secret. For a production system, store secrets securely and use a database/user service.
+
+
